@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "danny"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    
+  }
+}
